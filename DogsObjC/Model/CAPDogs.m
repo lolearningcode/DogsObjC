@@ -1,15 +1,15 @@
 //
-//  ViewController.h
+//  CAPDogs.m
 //  DogsObjC
 //
 //  Created by Lo Howard on 5/22/19.
 //  Copyright © 2019 Lo Howard. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "CAPDogs.h"
 
-@interface ViewController : UIViewController
+@implementation CAPDogs
+
 
 
 @end
-
